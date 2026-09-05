@@ -1,0 +1,58 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "vGBVQvqJWu3ICkAKhZMng"
+uri = "file://downloads/community-management-resident-debug.apk"
+type = "unspecified"
+title = "Download Community Management Resident APK"
+description = "Android APK for the resident mobile prototype. Download this file on an Android device, Windows/Mac/Linux laptop, or Android emulator. It cannot be installed on iPhone/iPad."
+logical_id = "70f82f77-167e-4a57-b971-e205a3564936"
+content_hash = "sha256:0b7fa0b9be6810d4a5b05f3875bee83591b979d4d2e077ea92a5668120afcdfe"
+size = 231219
+mtime_ms = 1788578831230
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:f9773d0f-0d60-46c9-9abe-8f9c83fc53fb/70f82f77-167e-4a57-b971-e205a3564936/88a13d63-e628-435c-ad50-d17d26bb5bf9"
+storage_version_token = "1788579458494719"
+content_type = "application/octet-stream"
+
+[[outputs]]
+id = "AY7q9xRBwzpsM0_N6oLD9"
+uri = "file://downloads/community-management-resident-debug.apk.zip"
+type = "unspecified"
+title = "Download APK as ZIP"
+description = "Fallback download for Android devices. Extract this ZIP to get community-management-resident-debug.apk, then share or install the APK."
+logical_id = "1d74b4bd-788d-40d4-aa89-5282249e600a"
+content_hash = "sha256:4b5d2238fce385832a0371f7614f10f8bc3d613c90bfa7bc3cbec1d09d8636a5"
+size = 222034
+mtime_ms = 1788579904930
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:f9773d0f-0d60-46c9-9abe-8f9c83fc53fb/1d74b4bd-788d-40d4-aa89-5282249e600a/5acdd284-1652-4870-8477-f8bf16bd726a"
+storage_version_token = "1788579912768913"
+content_type = "application/octet-stream"
+
+[[outputs]]
+id = "7wOdsyNuGPwaqfdleQhWj"
+uri = "file://downloads/community-management-resident-fixed.apk"
+type = "unspecified"
+title = "Download Fixed Community Management Resident APK"
+description = "Corrected Android APK with the WebView asset-path fix. Uninstall the old blank version first, then install this file."
+logical_id = "028cae98-f09f-45f6-a8db-5da34e0a2805"
+content_hash = "sha256:7ef9058b6671f78d6945d03f6dca6a88010d9b9e3cd0464579cb862acc88095d"
+size = 1390219
+mtime_ms = 1788580305044
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:f9773d0f-0d60-46c9-9abe-8f9c83fc53fb/028cae98-f09f-45f6-a8db-5da34e0a2805/714146a1-b90b-4910-84bc-8e262b70b87e"
+storage_version_token = "1788580324667686"
+content_type = "application/octet-stream"
+
+[[outputs]]
+id = "7UW9bZfJeIVOjdu0rBtks"
+uri = "file://downloads/community-management-resident-fixed.apk.zip"
+type = "unspecified"
+title = "Download Fixed APK as ZIP"
+description = "Fallback download. Extract the ZIP to get the corrected APK if direct APK download does not work."
+logical_id = "32f3ec3a-8ef7-4261-b80a-6856f156fc55"
+content_hash = "sha256:96a7637187b5e1a9cbe046dbda69206d6591baa3bbf308674213b6f2a8a250ab"
+size = 1351811
+mtime_ms = 1788580316436
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:f9773d0f-0d60-46c9-9abe-8f9c83fc53fb/32f3ec3a-8ef7-4261-b80a-6856f156fc55/e68d7466-1cb1-46a2-ab2d-6278ff528350"
+storage_version_token = "1788580325962264"
+content_type = "application/octet-stream"
