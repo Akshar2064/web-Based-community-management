@@ -1,0 +1,1 @@
+- [Android WebView packaging](android-webview-wrapper.md) — serve bundled Vite modules through WebViewAssetLoader instead of a direct file URL.
