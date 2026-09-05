@@ -1,0 +1,27 @@
+/*
+ * Keep the resident prototype self-contained.
+ *
+ * The canvas entry imports the sandbox stylesheet globally, but a direct
+ * component preview can be mounted without main.tsx. Importing the shared
+ * stylesheet here prevents that direct preview from falling back to browser
+ * defaults and rendering the JSX as unstyled text.
+ */
+@import "../../../index.css";
+
+html,
+body,
+#root {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  min-width: 320px;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
